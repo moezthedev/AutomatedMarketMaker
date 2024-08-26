@@ -1,4 +1,4 @@
-#ConstantSumAMM
+# ConstantSumAMM
 
 This repository contains a Solidity smart contract for a Constant Sum Automated Market Maker (AMM). This AMM facilitates asset trading by maintaining a constant sum of reserves for two tokens. It includes functionality for adding and removing liquidity, swapping assets, and managing allowances.
 
